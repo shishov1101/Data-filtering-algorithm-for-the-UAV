@@ -1,0 +1,10 @@
+c:\users\borisov.n.a\documents\visual studio 2010\Projects\Filter\Filter\bin\Debug\Filter.exe
+c:\users\borisov.n.a\documents\visual studio 2010\Projects\Filter\Filter\bin\Debug\Filter.pdb
+c:\users\borisov.n.a\documents\visual studio 2010\Projects\Filter\Filter\obj\x86\Debug\Filter.exe
+c:\users\borisov.n.a\documents\visual studio 2010\Projects\Filter\Filter\obj\x86\Debug\Filter.pdb
+C:\Users\borisov.n.a\Documents\Visual Studio 2010\Projects\Filter\Filter\obj\x86\Debug\Filter.csprojResolveAssemblyReference.cache
+D:\Filter\Filter\bin\Debug\Filter.exe
+D:\Filter\Filter\bin\Debug\Filter.pdb
+D:\Filter\Filter\obj\x86\Debug\Filter.csprojResolveAssemblyReference.cache
+D:\Filter\Filter\obj\x86\Debug\Filter.exe
+D:\Filter\Filter\obj\x86\Debug\Filter.pdb
